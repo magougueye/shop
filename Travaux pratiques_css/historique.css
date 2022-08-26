@@ -1,0 +1,16 @@
+body{
+    background-color: tomato;
+}
+#Historique{
+    color: yellow;
+}
+#Accueil{
+    font-size: 20px;
+    margin-right: 1280px;
+}
+#slogan{
+    border: 1px solid black;
+   position: absolute;
+    bottom: 0px;
+    right: 10px;
+}
